@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Consultor de Cerveja</string>
+    <string name="btBusca">Encontrar Cerveja</string>
+
+    <string-array name="cervejas">
+        <item>Larger</item>
+        <item>Pilsen</item>
+        <item>Schwarzbier</item>
+    </string-array>
+
+</resources>
